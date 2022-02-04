@@ -1,0 +1,10 @@
+strA = "Abrakadabra"
+print(strA[2])
+print(strA[len(strA)-2])
+print(strA[:5])
+print(strA[:-2])
+print(strA[::2])
+print(strA[1::2])
+print(strA[::-1])
+print(strA[::-2])
+print(len(str))
